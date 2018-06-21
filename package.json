@@ -12,5 +12,18 @@
   "devDependencies": {},
   "dependencies": {
     "jest": "^23.1.0"
-  }
+  },
+  "description": "Let's get good at TDD! Work through the katas in this repo and practice your TDD chops.",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngyl88/tdd-with-jest.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ngyl88/tdd-with-jest/issues"
+  },
+  "homepage": "https://github.com/ngyl88/tdd-with-jest#readme"
 }
